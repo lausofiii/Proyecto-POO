@@ -1,0 +1,138 @@
+[
+  {
+    "nombre": "Cemento",
+    "color": "Gris",
+    "proveedor": "Holcim",
+    "funcion": "Hacer el hormigon",
+    "costo": 7.51,
+    "unidad": "Saco"
+  },
+  {
+    "nombre": "Espuma Acústica",
+    "color": "Negro",
+    "proveedor": "Amazon",
+    "funcion": "Absorbente acustico",
+    "costo": 30,
+    "unidad": "Pack 12"
+  },
+  {
+    "nombre": "Ripio",
+    "color": "Azul",
+    "proveedor": "Cantera",
+    "funcion": "Mezcla del hormigon",
+    "costo": 1.11,
+    "unidad": "M³"
+  },
+  {
+    "nombre": "Arena Cribada",
+    "color": "Gris",
+    "proveedor": "Cantera",
+    "funcion": "Mezcla del hormigon",
+    "costo": 21,
+    "unidad": "M³"
+  },
+  {
+    "nombre": "Varilla de Acero Corrugada (8mm)",
+    "color": "Negro",
+    "proveedor": "Nova Cero",
+    "funcion": "Columnas",
+    "costo": 6.22,
+    "unidad": "Unidad"
+  },
+  {
+    "nombre": "Placa de Yeso Laminado",
+    "color": "Gris",
+    "proveedor": "Kywi",
+    "funcion": "Absorbente Acustico",
+    "costo": 10,
+    "unidad": "M²"
+  },
+  {
+    "nombre": "Cortinas de Cristal",
+    "color": "Matiz Verdoso",
+    "proveedor": "Tolda y Lonas Lopez",
+    "funcion": "Regular temperatura",
+    "costo": 40,
+    "unidad": "M²"
+  },
+  {
+    "nombre": "Piso de Madera",
+    "color": "Roble Claro",
+    "proveedor": "Pismade S.A",
+    "funcion": "Escenario",
+    "costo": 6,
+    "unidad": "M²"
+  },
+  {
+    "nombre": "Interruptor Triple",
+    "color": "Blanco",
+    "proveedor": "Maviju",
+    "funcion": "Prender el foco",
+    "costo": 1.95,
+    "unidad": "Unidad"
+  },
+  {
+    "nombre": "Toma Corriente",
+    "color": "Blanco",
+    "proveedor": "Maviju",
+    "funcion": "Conectar dispositivos",
+    "costo": 2.2,
+    "unidad": "Unidad"
+  },
+  {
+    "nombre": "Bloque de Cemento",
+    "color": "Gris",
+    "proveedor": "Cantera",
+    "funcion": "Paredes y aislante termico",
+    "costo": 0.25,
+    "unidad": "Unidad"
+  },
+  {
+    "nombre": "Porta Foco",
+    "color": "Blanco",
+    "proveedor": "Maviju",
+    "funcion": "Poner el foco",
+    "costo": 11.34,
+    "unidad": "Unidad"
+  },
+  {
+    "nombre": "Bloque Ecologicos",
+    "color": "Cafe",
+    "proveedor": "Construex",
+    "funcion": "Paredes",
+    "costo": 175.1,
+    "unidad": "M²"
+  },
+  {
+    "nombre": "Puerta",
+    "color": "Roble Claro",
+    "proveedor": "Frecuento",
+    "funcion": "Entrada",
+    "costo": 139.74,
+    "unidad": "Unidad"
+  },
+  {
+    "nombre": "Pintura Latex",
+    "color": "Gris",
+    "proveedor": "Pintuco",
+    "funcion": "Pintar la estructura",
+    "costo": 22,
+    "unidad": "Lt"
+  },
+  {
+    "nombre": "Madera",
+    "color": "Pino",
+    "proveedor": "Kywi",
+    "funcion": "Armar el encofrado",
+    "costo": 1.1,
+    "unidad": "M²"
+  },
+  {
+    "nombre": "Clavo Acero",
+    "color": "Negro",
+    "proveedor": "Kywi",
+    "funcion": "Armar el encofrado",
+    "costo": 11.55,
+    "unidad": "Kg"
+  }
+]

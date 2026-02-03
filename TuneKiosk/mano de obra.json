@@ -1,0 +1,57 @@
+[
+  {
+    "nombre": "Ayudante",
+    "costo": 45,
+    "unidad": "Jornada laboral"
+  },
+  {
+    "nombre": "Carpintero",
+    "costo": 3.45,
+    "unidad": "Hora"
+  },
+  {
+    "nombre": "Chofer",
+    "costo": 3.89,
+    "unidad": "Hora"
+  },
+  {
+    "nombre": "Capataz",
+    "costo": 150,
+    "unidad": "Jornada laboral"
+  },
+  {
+    "nombre": "Maestro Albañil",
+    "costo": 120,
+    "unidad": "Jornada laboral"
+  },
+  {
+    "nombre": "Ayudante Fierrista",
+    "costo": 70,
+    "unidad": "Jornada laboral"
+  },
+  {
+    "nombre": "Ayudante Encofrador",
+    "costo": 45,
+    "unidad": "Jornada laboral"
+  },
+  {
+    "nombre": "Maestro Fierrista",
+    "costo": 120,
+    "unidad": "Jornada laboral"
+  },
+  {
+    "nombre": "Maestro Pintor",
+    "costo": 120,
+    "unidad": "Jornada laboral"
+  },
+  {
+    "nombre": "Ayudante Pintor",
+    "costo": 70,
+    "unidad": "Jornada laboral"
+  },
+  {
+    "nombre": "Maestro Encofrador",
+    "costo": 120,
+    "unidad": "Jornada laboral"
+  }
+]

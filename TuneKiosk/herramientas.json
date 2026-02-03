@@ -1,0 +1,57 @@
+[
+  {
+    "nombre": "Andamio Metalico",
+    "costo": 8,
+    "unidad": "Dia"
+  },
+  {
+    "nombre": "Mezcladora 350lts",
+    "costo": 19.3,
+    "unidad": "Hora"
+  },
+  {
+    "nombre": "Vibradora de Inmersion",
+    "costo": 17.37,
+    "unidad": "Hora"
+  },
+  {
+    "nombre": "Abrillantadora de Piso",
+    "costo": 1,
+    "unidad": "Hora"
+  },
+  {
+    "nombre": "Alisadora de Piso",
+    "costo": 33.04,
+    "unidad": "Dia"
+  },
+  {
+    "nombre": "Amoladora Electrica",
+    "costo": 1.1,
+    "unidad": "Hora"
+  },
+  {
+    "nombre": "Cortadora",
+    "costo": 35,
+    "unidad": "Dia"
+  },
+  {
+    "nombre": "Volqueta 8M³",
+    "costo": 30,
+    "unidad": "Hora"
+  },
+  {
+    "nombre": "Equipo de Pintura",
+    "costo": 2,
+    "unidad": "Hora"
+  },
+  {
+    "nombre": "Taladro Electrico",
+    "costo": 1.1,
+    "unidad": "Hora"
+  },
+  {
+    "nombre": "Generador Electrico",
+    "costo": 35.71,
+    "unidad": "Hora"
+  }
+]
